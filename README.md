@@ -1,6 +1,6 @@
 ### The Extended Sleeping Barbers Problem
 ***
-##### Specification
+#### Specification
 ***
 The Sleeping Barbers problem is an extension of the Sleeping Barber problem. The program attempts to solve the Sleeping Barbers problem where multiple customers visit a barber shop and receive services from one of the available barbers associated with the shop. 
 
@@ -14,7 +14,7 @@ The following command line arguments are required:
 | argv[3] | num_customers | The number of customers who need a haircut service | 
 | argv[4] | service_time | Each barber’s service time (in μ seconds) |
 
-##### Files
+#### Files
 ***
 The Shop.cpp, Shop.h and Driver.cpp are included. The Driver.cpp creates the shop, the barbers and the clients.  It performs the following actions:
 * Instantiates a shop which is an object from the Shop class
@@ -25,7 +25,7 @@ The Shop.cpp, Shop.h and Driver.cpp are included. The Driver.cpp creates the sho
 
 Languages used: C++
 
-##### Compilation & Running
+#### Compilation & Running
 ***
 Generate executable:
 ```sh
