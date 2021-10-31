@@ -1,7 +1,5 @@
 ### The Extended Sleeping Barbers Problem
 ***
-#### Specification
-***
 The Sleeping Barbers problem is an extension of the Sleeping Barber problem. The program attempts to solve the Sleeping Barbers problem where multiple customers visit a barber shop and receive services from one of the available barbers associated with the shop. 
 
 A barbershop consists of a waiting room with `n` waiting chairs and `m` barbers each of which have a barber chair to service customers in `t` time. The barber goes to sleep if there are no customers in the waiting room and/ or in their barber chair. If all the waiting chairs are occupied when a customer enters the shop, then the customer leaves the shop without being serviced by a barber. If the barbers are busy and waiting chairs are available when a customer enters the shop, then the customer sits in one of the free waiting chairs. The customer wakes up the barber and gets served when the barber is asleep due to no existing customers. 
